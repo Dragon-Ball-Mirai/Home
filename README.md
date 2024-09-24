@@ -273,10 +273,3 @@ Dragon Ball Mirai foi criado por um fã, para os fãs. "Sempre sonhei em um jogo
         </tr>
     </tbody>
 </table>
-
-## References
-[About issues - GitHub Docs](https://github.com/Dragon-Ball-Mirai/Home.wiki.git)
-
-[About wikis - GitHub Docs](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
-
-[About discussions - GitHub Docs](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)

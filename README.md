@@ -271,5 +271,15 @@ Dragon Ball Mirai foi criado por um fã, para os fãs. "Sempre sonhei em um jogo
                 Correções de bugs <img width="10" src="https://imgur.com/9tCG8gb.png"/>
             </td>
         </tr>
+   <td>
+                07/10/2024
+            </td>
+            <td>
+                2.15.5
+            </td>
+            <td>
+                Corrigimos bugs como o preço da viagem para Namek, a regeneração de Majin, o momento de usar o .k4, e a informação sobre o zenkai. Além disso, adicionamos novas funcionalidades, incluindo habilidades do mestre, sistema de transformação, pesos para treino, retorno do comando .flex, e benefícios, além de uma mensagem informando quando o jogador já está transformado <img width="10" src="https://imgur.com/9tCG8gb.png"/>
+            </td>
+        </tr>
     </tbody>
 </table>

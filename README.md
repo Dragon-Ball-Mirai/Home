@@ -8,6 +8,8 @@ Dragon Ball Mirai foi criado por um fã, para os fãs. "Sempre sonhei em um jogo
 
 <img src="https://lanyard.kyrie25.me/api/892048596164309043?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" alt="Spotify Listening Activity">
 
+<img src="https://lanyard.kyrie25.me/api/515877283760963584?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" alt="Spotify Listening Activity">
+
 ### Linguagens
 <p display="inline-block">
   <img width="48" src="https://imgur.com/jptv6sO.png" alt="bdfd-logo"/>

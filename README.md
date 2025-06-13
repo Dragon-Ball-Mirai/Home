@@ -211,6 +211,11 @@ Dragon Ball Mirai foi criado por um fã, para os fãs. "Sempre sonhei em um jogo
             <td>6.26.5</td>
             <td>Sistema de treinamento jogando videogame foi adicionado, sistema de teletransporte de um apoiador para com um amigo foi adicionado, novas raças foram adicionadas ao jogo Jiren, Bio Android, Zaiko, Demônios, Saibamans, Tapion, Paikuhan, Saiyajin Híbrido, Granolah. novo mod foi adicionado E se Piccolo vencesse? Saga Janemba parte 2 (final) foi adicionada, novo comando .site para ter um guia do site do jogo, comando para verificar as suas transformações, comando para ver os multiplicadores ou informações das suas transformações foi adicionado, sistema para ver o status do seu inimigo enquanto está lutando foi adicionado
         </tr>
+        <tr>
+            <td>13/06/2025</td>
+            <td>6.27.5</td>
+            <td>Novos planetas adicionados: Planeta Saiyajin e Planeta Janemba. Todos os planetas agora têm Pesos. Todos os planetas agora têm Treino Amigo
+        </tr>
 
 
 
